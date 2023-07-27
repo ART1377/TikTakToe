@@ -19,14 +19,4 @@ const Button = ({ children, clickHandler }: Props) => {
 };
 
 export default Button;
-{
-  /* <Button onClick={(e) => mainFunction(e, 0)}></Button>
-          <Button onClick={(e) => mainFunction(e, 1)}></Button>
-          <Button onClick={(e) => mainFunction(e, 2)}></Button>
-          <Button onClick={(e) => mainFunction(e, 3)}></Button>
-          <Button onClick={(e) => mainFunction(e, 4)}></Button>
-          <Button onClick={(e) => mainFunction(e, 5)}></Button>
-          <Button onClick={(e) => mainFunction(e, 6)}></Button>
-          <Button onClick={(e) => mainFunction(e, 7)}></Button>
-          <Button onClick={(e) => mainFunction(e, 8)}></Button> */
-}
+
